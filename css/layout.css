@@ -246,6 +246,10 @@ fieldset[disabled] .btn-theme {
   border-width: 0;
 }
 
+.social-icons{
+  margin: 8px;
+}
+
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
   color: #fff;
   background: #17bed2;
